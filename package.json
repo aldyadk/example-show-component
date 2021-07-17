@@ -1,5 +1,6 @@
 {
   "name": "07-removable-component",
+  "homepage": "https://github.com/aldyadk/example-show-component",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
