@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/aldyadk/example-show-component/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/aldyadk/example-show-component/static/js/main.80b11ded.chunk.js",
-    "main.js.map": "/aldyadk/example-show-component/static/js/main.80b11ded.chunk.js.map",
-    "runtime-main.js": "/aldyadk/example-show-component/static/js/runtime-main.7000a27a.js",
-    "runtime-main.js.map": "/aldyadk/example-show-component/static/js/runtime-main.7000a27a.js.map",
-    "static/js/2.b52a9cd8.chunk.js": "/aldyadk/example-show-component/static/js/2.b52a9cd8.chunk.js",
-    "static/js/2.b52a9cd8.chunk.js.map": "/aldyadk/example-show-component/static/js/2.b52a9cd8.chunk.js.map",
-    "static/js/3.f0b248b0.chunk.js": "/aldyadk/example-show-component/static/js/3.f0b248b0.chunk.js",
-    "static/js/3.f0b248b0.chunk.js.map": "/aldyadk/example-show-component/static/js/3.f0b248b0.chunk.js.map",
-    "index.html": "/aldyadk/example-show-component/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/aldyadk/example-show-component/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.b52a9cd8.chunk.js.LICENSE.txt": "/aldyadk/example-show-component/static/js/2.b52a9cd8.chunk.js.LICENSE.txt"
+    "main.css": "/example-show-component/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/example-show-component/static/js/main.80b11ded.chunk.js",
+    "main.js.map": "/example-show-component/static/js/main.80b11ded.chunk.js.map",
+    "runtime-main.js": "/example-show-component/static/js/runtime-main.f5f04090.js",
+    "runtime-main.js.map": "/example-show-component/static/js/runtime-main.f5f04090.js.map",
+    "static/js/2.b52a9cd8.chunk.js": "/example-show-component/static/js/2.b52a9cd8.chunk.js",
+    "static/js/2.b52a9cd8.chunk.js.map": "/example-show-component/static/js/2.b52a9cd8.chunk.js.map",
+    "static/js/3.f0b248b0.chunk.js": "/example-show-component/static/js/3.f0b248b0.chunk.js",
+    "static/js/3.f0b248b0.chunk.js.map": "/example-show-component/static/js/3.f0b248b0.chunk.js.map",
+    "index.html": "/example-show-component/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/example-show-component/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b52a9cd8.chunk.js.LICENSE.txt": "/example-show-component/static/js/2.b52a9cd8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7000a27a.js",
+    "static/js/runtime-main.f5f04090.js",
     "static/js/2.b52a9cd8.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.80b11ded.chunk.js"
